@@ -1,0 +1,9 @@
+# ninja log v5
+6	802	7051275584992612	CMakeFiles/Authentication_System.dir/main.cpp.obj	48fbf91eabc4cb81
+948	1143	7051277340717320	Authentication_System.exe	e49ec3e181b72491
+7	946	7051277338784404	CMakeFiles/Authentication_System.dir/menu.cpp.obj	16c6b8cf0f5ac07e
+14	802	7051294720694617	CMakeFiles/Authentication_System.dir/main.cpp.obj	e39447be45e68095
+6	904	7051294721702932	CMakeFiles/Authentication_System.dir/menu.cpp.obj	cb30973eb8223f90
+904	1116	7051294723763219	Authentication_System.exe	e49ec3e181b72491
+6	738	7051296918959207	CMakeFiles/Authentication_System.dir/main.cpp.obj	e39447be45e68095
+739	934	7051296920832520	Authentication_System.exe	e49ec3e181b72491

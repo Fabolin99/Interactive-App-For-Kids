@@ -1,0 +1,3 @@
+C:/Users/fabol/OneDrive/Escritorio/Programming/Applied Programming/Interactive App For Kids/cmake-build-debug/CMakeFiles/Authentication_System.dir
+C:/Users/fabol/OneDrive/Escritorio/Programming/Applied Programming/Interactive App For Kids/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fabol/OneDrive/Escritorio/Programming/Applied Programming/Interactive App For Kids/cmake-build-debug/CMakeFiles/rebuild_cache.dir
